@@ -1,0 +1,16 @@
+E:\.NET\C#\OOPsPractice\OOPsPractice\bin\Debug\net5.0\OOPsPractice.exe
+E:\.NET\C#\OOPsPractice\OOPsPractice\bin\Debug\net5.0\OOPsPractice.deps.json
+E:\.NET\C#\OOPsPractice\OOPsPractice\bin\Debug\net5.0\OOPsPractice.runtimeconfig.json
+E:\.NET\C#\OOPsPractice\OOPsPractice\bin\Debug\net5.0\OOPsPractice.runtimeconfig.dev.json
+E:\.NET\C#\OOPsPractice\OOPsPractice\bin\Debug\net5.0\OOPsPractice.dll
+E:\.NET\C#\OOPsPractice\OOPsPractice\bin\Debug\net5.0\ref\OOPsPractice.dll
+E:\.NET\C#\OOPsPractice\OOPsPractice\bin\Debug\net5.0\OOPsPractice.pdb
+E:\.NET\C#\OOPsPractice\OOPsPractice\obj\Debug\net5.0\OOPsPractice.csproj.AssemblyReference.cache
+E:\.NET\C#\OOPsPractice\OOPsPractice\obj\Debug\net5.0\OOPsPractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\C#\OOPsPractice\OOPsPractice\obj\Debug\net5.0\OOPsPractice.AssemblyInfoInputs.cache
+E:\.NET\C#\OOPsPractice\OOPsPractice\obj\Debug\net5.0\OOPsPractice.AssemblyInfo.cs
+E:\.NET\C#\OOPsPractice\OOPsPractice\obj\Debug\net5.0\OOPsPractice.csproj.CoreCompileInputs.cache
+E:\.NET\C#\OOPsPractice\OOPsPractice\obj\Debug\net5.0\OOPsPractice.dll
+E:\.NET\C#\OOPsPractice\OOPsPractice\obj\Debug\net5.0\ref\OOPsPractice.dll
+E:\.NET\C#\OOPsPractice\OOPsPractice\obj\Debug\net5.0\OOPsPractice.pdb
+E:\.NET\C#\OOPsPractice\OOPsPractice\obj\Debug\net5.0\OOPsPractice.genruntimeconfig.cache
